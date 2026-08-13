@@ -30,8 +30,6 @@
 
 <img src="https://metrics.lecoq.io/VG31OP?template=classic&config.timezone=Asia%2FKolkata"/>
 
-> **Note:** GitHub Metrics won't work until you deploy it with a GitHub Action. Once configured, this image updates automatically.
-
 </div>
 
 ---
