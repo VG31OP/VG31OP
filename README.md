@@ -2,7 +2,7 @@
 
 # Hey, I'm Vraj Shiroya 👋
 
-### 🚀 Vibe Coder • AI Builder • Founder @ Orbitra Solution
+### 🚀 Vibe Coder • AI Builder
 
 *Turning ideas into AI-powered products.*
 
@@ -14,21 +14,7 @@
 
 ## 🔥 GitHub Streak
 
-<img src="https://streak-stats.demolab.com?user=VG31OP&theme=transparent&hide_border=true"/>
-
-</div>
-
----
-
-
-
----
-
-<div align="center">
-
-## 📊 GitHub Metrics
-
-<img src="https://metrics.lecoq.io/VG31OP?template=classic&config.timezone=Asia%2FKolkata"/>
+<img src="https://streak-stats.demolab.com?user=VG31OP&theme=transparent&hide_border=true" />
 
 </div>
 
@@ -38,7 +24,7 @@
 
 ## 🛠 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,python,tailwind,supabase,cloudflare,vercel,git,github,vscode,figma"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,python,tailwind,supabase,cloudflare,vercel,git,github,vscode,figma" />
 
 </div>
 
@@ -48,14 +34,10 @@
 
 ## ⚡ Currently
 
-🧠 **Building AI Products**
-
-🤖 **Creating Intelligent Automations**
-
-🌐 **Crafting Modern Web Experiences**
-
-🚀 **Shipping Ideas, Not Just Code**
-
+🧠 **Building AI Products**  
+🤖 **Creating Intelligent Automations**  
+🌐 **Crafting Modern Web Experiences**  
+🚀 **Shipping Ideas, Not Just Code**  
 ☕ **Fueled by Coffee & Curiosity**
 
 </div>
@@ -65,5 +47,3 @@
 <div align="center">
 
 > *"Code. Ship. Learn. Repeat."*
-
-</div>
