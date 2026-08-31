@@ -38,7 +38,7 @@
 🤖 **Creating Intelligent Automations**  
 🌐 **Crafting Modern Web Experiences**  
 🚀 **Shipping Ideas, Not Just Code**  
-☕ **Fueled by Coffee & Curiosity**
+☕ **Fueled by tea & Curiosity**
 
 </div>
 
