@@ -16,7 +16,7 @@
 
 ### 🔥 GitHub Streak
 
-<img src="https://streak-stats.demolab.com?user=VG31OP&theme=transparent&hide_border=false" />
+<img src="https://github-readme-streak-stats-c1nf.onrender.com?user=VG31OP&theme=transparent&hide_border=false" />
 
 </div>
 
